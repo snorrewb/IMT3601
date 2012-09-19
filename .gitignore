@@ -167,6 +167,12 @@ pip-log.txt
 #########
 UDK/Binaries
 UDK/Engine
+UDK/Development/Src/Core
+UDK/Development/Src/Engine
+UDK/Development/Src/MyMod
+UDK/Development/Src/WinDrv
+UDK/Development/Src/OnlineSubsystemGameCenter
+UDK/Development/Src/UnrealEds
 UDK/Development/Flash
 UDK/UDKGame/Autosaves
 UDK/UDKGame/Build
